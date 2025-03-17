@@ -10,15 +10,19 @@ This is a full-stack real-time chat application built with Node.js, Express, Mon
 
  User Authentication: Signup and login functionality.
 
-![Screenshot 2025-03-07 192837](https://github.com/user-attachments/assets/3f5dcab9-f0ff-4262-9464-5b13e41ac2b4)
+![Login page](https://github.com/user-attachments/assets/3693fafa-08eb-4898-82f9-2629ce7967be)
 
 
-![Screenshot 2025-03-07 194347](https://github.com/user-attachments/assets/4516ba2e-df7c-4cd0-b0bc-1bf2c8ad390a)
+
+![New acc page](https://github.com/user-attachments/assets/94dfd25c-d9bf-43b0-9039-02d44f0783a2)
+
 
 
 Real-Time Messaging: Send and receive messages instantly.
 
-![Screenshot 2025-03-07 192454](https://github.com/user-attachments/assets/d0f0fd4e-aa68-48ea-98f9-e0c8a4a1393e)
+
+![Chat image sending](https://github.com/user-attachments/assets/b3f81d0c-76f5-423d-be86-ec6af98adb47)
+
 
 
 Chat Rooms: Join public or private chat rooms.
@@ -29,8 +33,14 @@ Deployment: Hosted on Render.
 
 Themes :  Multiple Themes for the chat app 
 
-![Screenshot 2025-03-07 193018](https://github.com/user-attachments/assets/8fdd320c-aeff-48d2-b8af-5061afeb151f)
 
+![Themes](https://github.com/user-attachments/assets/bc18b1ff-23aa-401e-9cb7-5f3665af6f0a)
+
+
+
+Profile View 
+
+![Profile](https://github.com/user-attachments/assets/4afa483a-720b-406a-a4a9-ab8f8c11eacb)
 
 </i>
 
