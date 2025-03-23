@@ -97,5 +97,5 @@ Logout: Securely log out of your account.
 
 ## 🔥 Deployment
 
-This app is live on Render: [Full-Stack Chat App](https://fullstack-chat-app-0jvc.onrender.com/signup)
+This app is live on Render: [Full-Stack Chat App](https://fullstack-chat-app-0jvc.onrender.com)
 
